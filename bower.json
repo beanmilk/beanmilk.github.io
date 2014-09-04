@@ -1,0 +1,22 @@
+{
+  "name": "beanmilk.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/beanmilk/beanmilk.github.io",
+  "authors": [
+    "beanmilk <pej0323@hotmail.com>"
+  ],
+  "description": "practice",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery": "1.9.1",
+    "angularjs": "~1.2.23"
+  }
+}
